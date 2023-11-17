@@ -1,1 +1,1 @@
-# JavaScript-Super-simpledev
+# JavaScript-Practice
